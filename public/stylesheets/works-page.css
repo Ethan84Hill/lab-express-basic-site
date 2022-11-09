@@ -1,3 +1,32 @@
 body {
-    background-color: pink;
+    background-color: rgb(32, 160, 219);
+}
+
+.works-page {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 50px;
+}
+
+.worksinfo {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+}
+
+.homelink {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    margin-left: 700px;
+    margin-right: 700px;
+    margin-bottom: 10px;
+    margin-top: 40px;
+    border-radius: 5px;
+    font-size: 30px;
+    padding: 10px;
 }
